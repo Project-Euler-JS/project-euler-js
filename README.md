@@ -5,7 +5,8 @@
 Solutions to Project Euler problems (1 to 100) in JavaScript.
 
 ## Introduction
-This repository contains solutions to the first 100 problems from [Project Euler](https://projecteuler.net/), implemented in JavaScript. Each problem is solved using an efficient algorithm and well-commented code to explain the approach used.
+This repository contains solutions to the first 100 problems from [Project Euler by FreeCodeCamp](https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/), implemented in JavaScript. Each problem is solved using an efficient algorithm and well-commented code to explain the approach used.
+You can find a complete list of problems and news problem on the original page of the [Project  Euler - click me](https://projecteuler.net/) 
 
 ## Table of Contents
 1. [Project Euler Overview](#project-euler-overview)
