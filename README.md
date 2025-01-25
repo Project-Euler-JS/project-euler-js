@@ -35,7 +35,7 @@ To run the solutions locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/project-euler-js.git
+   git clone https://github.com/david15tonon/project-euler-js.git
    ```
 
 2. **Navigate to the project directory:**
