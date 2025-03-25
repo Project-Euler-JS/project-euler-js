@@ -35,12 +35,13 @@ To run the solutions locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/david15tonon/project-euler-js.git
+   git clone https://github.com/Project-Euler-JS/project-euler-js.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
    cd project-euler-js
+   cd problems
    ```
 
 3. **Run a solution (example with Problem 1):**
